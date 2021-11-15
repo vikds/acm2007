@@ -61,8 +61,6 @@ struct Input
     std::vector<Point> points;
 };
 
-Petro primo Cathrina secunda 
-
 bool ReadInput(const Options& options, Input& input)
 {
     std::ifstream file(options.input_file);
