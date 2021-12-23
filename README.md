@@ -8,13 +8,13 @@ Find the shortest distance Alice has to walk to cross the swamp or determine tha
 
 ## Show Score (2006)
 
-![showscore2006](showscroe2006.png "ShowScore2006")
+![showscore2006](showscore2006.png "ShowScore2006")
 
 [ShowScore2006](https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=565452;hide_virtual=1;sid=)
 
 ## Show Score (with Frogless swamp 2007)
 
-![showscore2007](showscrore2007.png "ShowScore2007")
+![showscore2007](showscore2007.png "ShowScore2007")
 
 [ShowScore2007](https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=608547;hide_virtual=1;sid=)
 
