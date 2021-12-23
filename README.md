@@ -6,11 +6,17 @@ Alice has to cross the swamp. The swamp is a strip of width  `swamp_width` stret
 
 Find the shortest distance Alice has to walk to cross the swamp or determine that she can not do so. Distance is measured from hummock to hummock, even if plank part is longer than the distance between hummocks.
 
-## Show Score
+## Show Score (2006)
 
-![showscrore](showscrore.png "ShowScrore")
+![showscrore2006](showscrore2006.png "ShowScrore2006")
 
-[ShowScrore](https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=608547;hide_virtual=1;sid=)
+[ShowScrore2006](https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=565452;hide_virtual=1;sid=)
+
+## Show Score (with Frogless swamp 2007)
+
+![showscrore2007](showscrore.png "ShowScrore2007")
+
+[ShowScrore2007](https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=608547;hide_virtual=1;sid=)
 
 ### P.S.
 
