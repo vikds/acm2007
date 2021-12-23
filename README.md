@@ -10,15 +10,15 @@ Find the shortest distance Alice has to walk to cross the swamp or determine tha
 
 A more sophisticated description of the problem can be found at the [link](https://imcs.dvfu.ru/cats/static/problem_text-cpid-611741.html)
 
-### Show Score (2006)
+### Scoreboard (2006)
 
-![showscore2006](showscore2006.png "ShowScore2006")
+![scoreboard2006](scoreboard2006.png "scoreboard2006")
 
 [Scoreboard](https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=565452;hide_virtual=1;sid=)
 
-### Show Score (with Frogless swamp 2007)
+### Scoreboard (with Frogless swamp 2007)
 
-![showscore2007](showscore2007.png "ShowScore2007")
+![scoreboard2007](scoreboard2007.png "scoreboard2007")
 
 [Scoreboard](https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=608547;hide_virtual=1;sid=)
 
