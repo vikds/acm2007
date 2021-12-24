@@ -14,13 +14,13 @@ A more sophisticated description of the problem can be found at the [link](https
 
 ![scoreboard2006](scoreboard2006.png "scoreboard2006")
 
-[Scoreboard](https://imcs.dvfu.ru/cats/?lang=en;f=rank_table;cache=1;cid=565452;hide_virtual=1;sid=)
+[Scoreboard]https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=565452;clist=565452;hide_ooc=1;hide_virtual=1;sid=)
 
 ### Scoreboard (with Frogless swamp 2007)
 
 ![scoreboard2007](scoreboard2007.png "scoreboard2007")
 
-[Scoreboard](https://imcs.dvfu.ru/cats/?lang=en;f=rank_table;cache=1;cid=608547;hide_virtual=1;sid=)
+[Scoreboard](https://imcs.dvfu.ru/cats/?f=rank_table;cache=1;cid=608547;clist=608547;hide_ooc=1;hide_virtual=1;sid=)
 
 ## Input file format
 
